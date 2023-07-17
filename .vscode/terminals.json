@@ -4,11 +4,11 @@
   "terminals": [
     {
       "name": "Welcome",
-      "description": "Run readme.js",
+      "description": "Run serra demo",
       "focus": true,
       "execute": true,
       "recycle": true,
-      "command": "node readme.js"
+      "command": "serra run demo"
     }
   ]
 }
